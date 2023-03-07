@@ -2,7 +2,7 @@
 
 ## Details
 
-Browse app here: **[react-cat-fact-generator](https://react-cat-fact-generator.vercel.app/)**
+Browse app here: **[react-excuse-generator](https://react-excuses-generator.vercel.app/)**
 
 Below concepts has been used while building this app:
 
