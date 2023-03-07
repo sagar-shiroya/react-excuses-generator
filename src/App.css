@@ -1,5 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Poppins';
+  padding: 0;
+  margin: 0;
+  color: whitesmoke;
+  background: black;
+}
+
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.App h1{
+  font-size: 55px;
+  font-weight: 500;
+  margin: 35px 0;
+  color: lightcyan;
+}
+
+.App h2{
+  font-size: 35px;
+  font-weight: 300;
+  margin-top: 35px;
+  border: 1px solid grey;
+  width: fit-content;
+  padding: 25px;
+  border-radius: 25px;
+  color: lightcyan;
+}
+
+div button{
+  margin: 25px 15px;
+  padding: 20px;
+  font-size: 25px;
+  border-radius: 15px;
+  border: 1px solid lightgray;
+  cursor: pointer;
+  background: lightcyan;
+  color: black;
+}
+
+.footer{
+  margin-top: auto;
+  margin-bottom: 15px;
 }
 
 .App-logo {
