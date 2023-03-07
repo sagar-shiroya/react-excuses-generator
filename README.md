@@ -15,4 +15,8 @@ Below concepts has been used while building this app:
 - Axios
 
 ## Demo
+![image](https://user-images.githubusercontent.com/14357087/223370051-16daf664-fd31-441d-a4d1-5b7c0428f05e.png)
+<hr/>
+
+![image](https://user-images.githubusercontent.com/14357087/223370200-2c46cb39-a22c-4532-9f86-272fca2cb4a4.png)
 
