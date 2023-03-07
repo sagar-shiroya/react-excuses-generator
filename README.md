@@ -1,4 +1,18 @@
-# React Tutorial
+# React Excuses Generator
 
-## Day1
-[Created component and used props](https://github.com/sagar-shiroya/react-tutorial/tree/day1)
+## Details
+
+Browse app here: **[react-cat-fact-generator](https://react-cat-fact-generator.vercel.app/)**
+
+Below concepts has been used while building this app:
+
+- JSX
+- Rendering Elements
+- Function based component
+- useState
+- Custom CSS
+- Arrow Functions
+- Axios
+
+## Demo
+
